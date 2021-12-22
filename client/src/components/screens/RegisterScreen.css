@@ -1,0 +1,8 @@
+
+.googleBtn{
+  display: flex;
+  flex-direction: columnl;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+}
